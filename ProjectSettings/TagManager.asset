@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Item
+  - Light
+  - Alarm
+  - SecurityCamera
+  - Tool
+  - ElectricityBox
+  - VentDoor
+  - Laser
+  - Security
+  - Diamond
+  - Flashlight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Laser
+  - Water
+  - UI
+  - Object
+  - Mask
+  - BehindMask
+  - Black
+  - Floor
+  - Player
+  - PlayerHand
+  - Security
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1217760533
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Laser
+    uniqueID: 3550086879
+    locked: 0
+  - name: Object
+    uniqueID: 2311164611
+    locked: 0
+  - name: GlassLayer
+    uniqueID: 4082788485
+    locked: 0
+  - name: Player
+    uniqueID: 3511082435
+    locked: 0
+  m_RenderingLayers:
+  - Default
