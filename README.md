@@ -1,1 +1,4 @@
-Developed a one-handed stealth game in Unity3D using C#. Designed and implemented core gameplay systems including security cameras, patrolling guards, laser traps, and multi-level progression. Focused on tactical, puzzle-oriented level design and efficient single-input controls. Responsible for scripting AI behaviors, interaction systems, and overall gameplay logic.
+A 2D top-down game controlled entirely with a single mouse, inspired by Endoparasitic.
+Implemented physics interactions, enemy AI, item systems, UI, and full progression loop.
+Focused heavily on responsive controls, game feel, and clean gameplay systems.
+Demonstrated ability to design, prototype, build, and polish a complete gameplay experience.
